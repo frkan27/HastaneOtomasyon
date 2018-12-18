@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HastaneWFa", "Form1\HastaneWFa.csproj", "{F735D368-DD9F-4693-BE81-AF72A1754BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hastane.Lib", "Hastane.Lib\Hastane.Lib.csproj", "{643A99B2-24B3-42F6-A104-0A439AEA0EA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F735D368-DD9F-4693-BE81-AF72A1754BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F735D368-DD9F-4693-BE81-AF72A1754BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F735D368-DD9F-4693-BE81-AF72A1754BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F735D368-DD9F-4693-BE81-AF72A1754BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643A99B2-24B3-42F6-A104-0A439AEA0EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643A99B2-24B3-42F6-A104-0A439AEA0EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643A99B2-24B3-42F6-A104-0A439AEA0EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643A99B2-24B3-42F6-A104-0A439AEA0EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9BCDAA3-589A-427C-A719-1A553BE6B63B}
+	EndGlobalSection
+EndGlobal
